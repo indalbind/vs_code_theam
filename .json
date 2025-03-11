@@ -1,0 +1,53 @@
+{
+    "editor.mouseWheelZoom": true,
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "explorer.confirmDelete": false,
+    "update.showReleaseNotes": false,
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.fontSize": 16,
+    "explorer.confirmDragAndDrop": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "explorer.confirmPasteNative": false,
+    "sqlite3-editor.telemetry": "deny",
+    "sqlite3-editor.ui.movePanelIfSpaceAllows": "right",
+    "sqlite3-editor.ui.minimizePanel": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "breadcrumbs.enabled": false,
+    "notebook.lineNumbers": "on",
+    "files.exclude": {
+        "**/*.class": true
+    },
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "python.defaultInterpreterPath": "C:\\Users\\indal\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "jdk.revealActiveInProjects": false,
+    "jdk.java.onSave.organizeImports": false,
+    "jdk.serverVmOptions": [],
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.tokenColorCustomizations": {
+        
+
+      },
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#69d9e820", 
+        "tab.activeForeground": "#ffffff", 
+        "list.inactiveSelectionForeground": "#ffaaaa",
+        "workbench.tree.expandMode": "highlight",
+        "editorGroupHeader.tabsBackground": "#333333", 
+        "sideBar.foreground": "#dddcdc",
+        "editorCursor.foreground": "#f30a0a", 
+        "panelTitle.activeBorder": "#f30303",
+        "tab.activeBorder": "#FF0000",
+        "activityBar.background": "#201f1f",
+        
+        },
+        "workbench.colorTheme": "Night Wolf (gray)",
+        "editor.dropIntoEditor.preferences": [
+            
+        ],
+} 
